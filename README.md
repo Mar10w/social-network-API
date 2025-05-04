@@ -38,4 +38,4 @@ This project is licensed under the MIT license.
 
 Links
 git hub Repo: https://github.com/Mar10w/social-network-API
-YouTube link: 
+YouTube link: https://youtu.be/QyW7f9equ5k
